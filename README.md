@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arjunsonar-here
-- 👀 I’m interested in Data Exploration and Data Insights
+- 👀 I’m interested in Data Modelling, Data Exploration and creating Data Insight
 - 🌱 I’m currently learning about Data 
 -  I’m looking for opportunities in Data Domian as Data Analyst, JR.Data Scientist and Machine Learning Roles
 - 📫 How to reach me arjunsonar259@gmail.com
